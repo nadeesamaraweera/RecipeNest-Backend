@@ -4,7 +4,7 @@ This is the backend service for the RecipeNest application, built with TypeScrip
 
 ## API Documentation
 
-For detailed API documentation, please visit [API Documentation](https://documenter.getpostman.com/view/35386291/2sAYdhHVCB).
+For detailed API documentation, please visit [API Documentation](https://documenter.getpostman.com/view/35385577/2sAYdhLApL).
 
 ## Getting Started
 
